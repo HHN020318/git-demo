@@ -7,5 +7,6 @@
 public class test {
     public static void main(String[] args) {
         System.out.println("这是hot-fix分支");
+        System.out.println("2");
     }
 }
